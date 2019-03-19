@@ -1,0 +1,4 @@
+# ignore compiled binary
+/wacom-autorotate
+# ignore VSCode config folder
+/.vscode
